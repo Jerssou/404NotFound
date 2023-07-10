@@ -1,0 +1,60 @@
+html{
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+@font-face{
+    font-family: 'YsabeauSC-VariableFont_wght';
+    src: url('/Ysabeau_SC/YsabeauSC-VariableFont_wght.ttf')
+}
+#espantapajaros{
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    max-width: 100%;
+
+}
+
+.mensaje{
+    position: fixed;
+    top: 10%;
+    left: 40%;
+    position: fixed;
+}
+h1{
+    color: #000;
+    font-family: 'YsabeauSC-VariableFont_wght';
+    font-size: 2em;
+}
+p{
+    font-family: 'YsabeauSC-VariableFont_wght';
+    font-size: 1.2em;
+}
+.botton{
+    padding: 10px; 
+    background-color: #000; 
+    color: #ffffff; /*color texto*/
+    text-decoration: none;
+    font-family: 'YsabeauSC-VariableFont_wght'; 
+}
+.nav{
+    font-family: 'YsabeauSC-VariableFont_wght'; 
+    font-size: 1.4em;
+}
+footer{
+    padding: 20px;
+    color: #000;
+    position: fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 1rem 0;
+    margin-top: 3rem;
+    text-align: center;
+}
