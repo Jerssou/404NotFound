@@ -69,6 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://example404pagenotfound.netlify.app/)
-- GitHub [@your-username](https://github.com/Jerssou/404NotFound/)
-- GitHub [@your-username](https://github.com/Jerssou)
+- Website [(https://example404pagenotfound.netlify.app/](https://example404pagenotfound.netlify.app/)
+- GitHub [@Jerssou](https://github.com/Jerssou/404NotFound/)
